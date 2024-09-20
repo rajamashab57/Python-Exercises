@@ -1,9 +1,9 @@
-####Python Exercises
+#Python Exercises
 
 Welcome to the Python-Exercises repository! This repository contains a collection of Python exercises designed to practice and reinforce key Python concepts, ranging from basic syntax to advanced topics.
 
-##Table of Contents
-##Overview
+###Table of Contents
+###Overview
 Prerequisites
 Exercises
 Installation
